@@ -1,0 +1,9 @@
+dist
+app/js/vendor
+app/js/config.js
+
+.DS_Store
+.idea
+.project
+node_modules
+config.js

@@ -1,0 +1,30 @@
+{
+  "name": "node-bootstrap",
+  "version": "0.0.1",
+  "description": "Basic NodeJS bootstrap app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NicolasBiehler/nodejs-bootstrap.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Nicolas Biehler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NicolasBiehler/nodejs-bootstrap/issues"
+  },
+  "homepage": "https://github.com/NicolasBiehler/nodejs-bootstrap",
+  "dependencies": {
+    "commander": "^2.6.0",
+    "compression": "^1.4.2",
+    "express": "^4.12.0",
+    "jade": "^1.9.2",
+    "morgan": "^1.5.1",
+    "serve-favicon": "^2.2.0"
+  }
+}
